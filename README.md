@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning at Birla Institute Of Technology Mesra Ranchi
 
-- 🔭 I’m currently working on **[Your Project Here]**
+- 🔭 I’m currently working on **[Mirror Leech Repositories]**
 
-- 📫 How to reach me **[YourEmail@example.com]**
+- 📫 How to reach me **[rajshreer80@gmail.com]**
 
 ### 🛠 Languages and Tools:
 <p align="left">
@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raj-bitmesra&show_icons=true&locale=en" alt="SonGoku1972" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SonGoku1972&show_icons=true&locale=en" alt="SonGoku1972" />
 </p>
 
 ### 🏆 GitHub Trophies:
